@@ -139,5 +139,6 @@ form > a.botao:hover {
 }
 
 form > a.botao > i {
-    font-size: 0.8em;
+    font-size: 1.3em;
+    transform: translateY(5px);
 }
